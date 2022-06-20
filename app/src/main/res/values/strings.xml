@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CatApp</string>
+    <string name="cat_name">Anggora</string>
+    <string name="cat_origin">United States</string>
+
+    <string name="alt_name">Nama lain</string>
+    <string name="jangka_hidup">Jangka Hidup</string>
+    <string name="temperamen">Temperamen</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="wikipedia">Wikipedia</string>
+
+    <!-- Contoh -->
+    <string name="c_alt_name" tools:ignore="TypographyDashes">3 - 4</string>
+    <string name="c_jangka_hidup" tools:ignore="TypographyDashes">12 - 15</string>
+    <string name="c_temperamen">Alert, Agile, Energetic, Demanding, Intelligent</string>
+    <string name="c_deskripsi">Bengals are a lot of fun to live with, but they are definitely not the cat for everyone, or for first-time cat owners. Extremely intelligent, curious and active, they demand a lot of interaction and woe betide the owner who does not provide it.</string>
+    <string name="c_wikipedia">https://en.wikipedia.org/wiki/Bengal_(cat)</string>
+
+    <!-- Satuan -->
+    <string name="s_jangka_hidup">Years</string>
+    <string name="search">Search</string>
+
+    <!-- Another -->
+    <string name="exit">Press back again to exit application</string>
+</resources>
